@@ -1,0 +1,56 @@
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Complete Task
+4. Edit Task
+5. Delete Task
+6. Quit
+Choose an option: 2
+Enter task description: Finish math homework
+Task added.
+
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Complete Task
+4. Edit Task
+5. Delete Task
+6. Quit
+Choose an option: 2
+Enter task description: Buy groceries
+Task added.
+
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Complete Task
+4. Edit Task
+5. Delete Task
+6. Quit
+Choose an option: 1
+1. [no] Finish math homework
+2. [no] Buy groceries
+
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Complete Task
+4. Edit Task
+5. Delete Task
+6. Quit
+Choose an option: 3
+1. [no] Finish math homework
+2. [no] Buy groceries
+Enter task number to mark complete: 1
+Task marked as complete.
+
+--- To-Do List ---
+1. View Tasks
+2. Add Task
+3. Complete Task
+4. Edit Task
+5. Delete Task
+6. Quit
+Choose an option: 1
+1. [yes] Finish math homework
+2. [no] Buy groceries
